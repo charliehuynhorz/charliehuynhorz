@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Tài!
 
-<!--
-**charliehuynhorz/charliehuynhorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a first-year student at the **University of Information Technology – Vietnam National University, Ho Chi Minh City**, currently pursuing a Bachelor's degree in **Vietnam-Japan Information Technology**.
 
-Here are some ideas to get you started:
+## 🔭 Currently Seeking
+I am aiming for an **internship as a Data Engineer** and hope to work in **Japan** in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+Every day, I strive to learn new things and improve my skills in technologies related to **Data Engineering**.
+
+## 👯 Open to Collaboration
+I am eager to collaborate on projects related to **data** to gain experience and meet like-minded people.
+
+## 💬 Ask Me About
+I enjoy discussing and exploring **new technologies**, especially in the field of **Data**. Feel free to reach out to me for discussions or questions!
+
+## 📫 Reach Me
+You can contact me via **email: huynhductai21931@gmail.com**.
+
+Let's connect and contribute to making the world more modern and innovative!
