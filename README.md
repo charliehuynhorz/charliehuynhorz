@@ -1,4 +1,4 @@
-👋 Hi, I'm Tài!
+👋 Hi, I'm Tài (Charlie)!
 
 ## About Me
 I am a first-year student at the **University of Information Technology – Vietnam National University, Ho Chi Minh City**, currently pursuing a Bachelor's degree in **Vietnam-Japan Information Technology**.
